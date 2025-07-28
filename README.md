@@ -52,11 +52,16 @@
 ### 📜 Certifications:
 ### 📜 Certifications
 
-- 🐍 [Applied Data Science with Python – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0MTU1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzk3MTEwMV84MzEyNzEzMTc0MDY3NDk1ODM1MC5wbmciLCJ1c2VybmFtZSI6IlNBR0FSIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion)
+- 💻 [Cutshort Certified HTML/CSS](https://cutshort.io/certificate/90056)
 
-- 📊 [Introduction to Data Visualization – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODEwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzk4MDM3N184MzEyNzEzMTc0MDg0Mzg2NzgxMC5wbmciLCJ1c2VybmFtZSI6Ik1SLiBTQUdBUiJ9)
+- 📊 [Introduction to Data Visualization – Simplilearn](https://simpli-web.app.link/e/xc7NQCgZnRb)
 
-- 🏅 [School-level Certification (Computer / Science Exhibition)](https://www.linkedin.com/in/sagar-sharma-427884194/details/certifications/1635546070565/single-media-viewer/?type=IMAGE&profileId=ACoAAC2xBV8B-28xgEOEApazIZWV4cBVWH5vz54)
+- 📘 [Introduction to Data Science – Simplilearn](https://simpli-web.app.link/e/zZXDLYStmRb)
+
+- 🐍 [Introduction to Applied Data Science with Python – Simplilearn](https://simpli-web.app.link/e/R58MfBjJkRb)
+
+
+
 
 - 🥉 3rd Position – Block-level Science, Math, and Environment Exhibition  
 - 🏆 District-level Science Exhibition  
