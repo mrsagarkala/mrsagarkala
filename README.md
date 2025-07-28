@@ -50,7 +50,6 @@
 ---
 
 ### 📜 Certifications:
-### 📜 Certifications
 
 - 💻 [Cutshort Certified HTML/CSS](https://cutshort.io/certificate/90056)
 
@@ -61,13 +60,11 @@
 - 🐍 [Introduction to Applied Data Science with Python – Simplilearn](https://simpli-web.app.link/e/R58MfBjJkRb)
 
 
-
-
-- 🥉 3rd Position – Block-level Science, Math, and Environment Exhibition  
-- 🏆 District-level Science Exhibition  
-- 💻 Computer Education Program – NICT (Haryana)  
-- 🇮🇳 National Service Scheme – Haryana Education Dept.
-
+- 🥉 Certificate of Block-level science, math, and environment exhibition in 3rd position. 
+- 🏆  District-level Science Exhibition Certificate. 
+- 💻 Certificate of Computer Education program of Directorate of School Education, Haryana by NICT.
+- Certificate of NATIONAL SERVICE SCHEME from the Education Department of Haryana.
+- Certified in Computer Education by NICT under the Directorate of School Education, Haryana.
 ---
 
 ### 📈 GitHub Stats:
