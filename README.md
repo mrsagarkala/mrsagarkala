@@ -62,7 +62,6 @@
 
 - 🥉 Certificate of Block-level science, math, and environment exhibition in 3rd position. 
 - 🏆  District-level Science Exhibition Certificate. 
-- 💻 Certificate of Computer Education program of Directorate of School Education, Haryana by NICT.
 - 🎖️  Certificate of NATIONAL SERVICE SCHEME – Education Department of Haryana.
 - 💻 Certified in Computer Education – NICT (Directorate of School Education, Haryana).
 
