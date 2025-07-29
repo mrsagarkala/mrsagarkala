@@ -81,4 +81,4 @@
 - 📈 [Power BI Dashboards](https://github.com/mrsagarkala/PowerBI-Dashboards)  
 - 📊 [Tableau Projects](https://github.com/mrsagarkala/Tableau-Projects)  
 - 📂 [Mini Projects](https://github.com/mrsagarkala/Mini-Projects-Datasets)  
-- 📄 [My Portfolio & Resume](https://github.com/mrsagarkala/Sagar-Portfolio)
+- 📄 [My Portfolio & Resume](https://github.com/mrsagarkala/Sagar-Resume.git)
