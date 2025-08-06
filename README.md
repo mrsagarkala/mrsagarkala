@@ -79,6 +79,6 @@
 - 📊 [EDA Projects](https://github.com/mrsagarkala/EDA-Projects)  
 - 🤖 [Machine Learning Projects](https://github.com/mrsagarkala/Machine-Learning-Projects)  
 - 📈 [Power BI Dashboards](https://github.com/mrsagarkala/PowerBI-Dashboards)  
-- 📊 [Tableau Projects](https://github.com/mrsagarkala/Tableau-Projects)  
+- 📊 [Agricultural Production Optimization](https://github.com/mrsagarkala/Agricultural-Production-Optimization)  
 - 📂 [Mini Projects](https://github.com/mrsagarkala/Mini-Projects-Datasets)  
 - 📄 [My Portfolio & Resume](https://github.com/mrsagarkala/Sagar-Resume.git)
